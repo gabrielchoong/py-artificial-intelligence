@@ -5,4 +5,4 @@
 ## Notebooks
 
 1. [Pandas syntax](pandas-syntax.ipynb)
-2. [Descriptive analysis](descriptive-analysis.ipynb)
+2. [Descriptive statistics](descriptive-statistics.ipynb)
